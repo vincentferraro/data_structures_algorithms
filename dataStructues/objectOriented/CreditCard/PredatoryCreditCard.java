@@ -1,4 +1,4 @@
-package dataStructues.objectOriented;
+package dataStructues.objectOriented.CreditCard;
 
 public class PredatoryCreditCard  extends CreditCard{
     
