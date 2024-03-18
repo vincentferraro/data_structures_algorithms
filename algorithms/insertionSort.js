@@ -32,6 +32,6 @@ function InsertionSort2(arr){
     }
 }
 
-const arr2 = [-6,4,-2,20,8];
+const arr2 = [-6,4,-2,20,4,8];
 InsertionSort2(arr2);
 console.log(arr2);
