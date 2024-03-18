@@ -7,6 +7,8 @@ function selectionSort2(arr){
                 minInt = j;
             }
         }
+
+        // Possible to add If block see Selectionsort.js
         let temp= arr[i];
         arr[i]= arr[minInt];
         arr[minInt]= temp;
